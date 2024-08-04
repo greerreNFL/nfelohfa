@@ -1,0 +1,15 @@
+{
+    "base" : {
+        "level" : 2.50,
+        "level_weeks" : 10,
+        "reg_weeks" : 280,
+        "kick_in" : 0.75
+    },
+    "features" : {
+        "home_bye" : 0.287,
+        "away_bye" : -0.778,
+        "home_time_advantage" : 0.179,
+        "dif_surface" : 0.349,
+        "div_game" : -0.451
+    }
+}
