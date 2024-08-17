@@ -47,6 +47,19 @@ class AdjustedHFA:
             ),3)
             ## add to hfa_adj ##
             df['hfa_adj'] = numpy.round(df['hfa_adj'] + df['{0}_adj'.format(k)],3)
+        ## if the field is neutral, remove the base, leaving only the adjs, which we
+        ## hypothesize to still be relevant ##
+        df['hfa_adj'] = numpy.where(
+            df['location'] == 'Neutral',
+            df['hfa_adj'] - df['hfa_base'],
+            df['hfa_adj']
+        )
+        ## then also zero out the base for clarity ##
+        df['hfa_base'] = numpy.where(
+            df['location'] == 'Neutral',
+            0,
+            df['hfa_base']
+        )
         ## return ##
         return df
 

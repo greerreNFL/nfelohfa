@@ -34,7 +34,11 @@ def calc_hfa():
     hfa = adj.apply_features()
     ## save the output ##
     ## form cols ##
-    cols = ['game_id', 'season', 'week', 'home_team', 'away_team']
+    cols = [
+        'game_id', 'season', 'week', 'home_team', 'away_team',
+        'gametime', 'stadium', 'location',
+        'roof', 'surface', 'temp', 'wind'
+    ]
     ## add the features ##
     for k,v in config['features'].items():
         cols.append(k)
