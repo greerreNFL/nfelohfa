@@ -177,6 +177,8 @@ class BaseHFA:
         hfa['hfa_base'] = hfa['hfa_base'].ffill()
         ## fill rest with baseline level ##
         hfa['hfa_base'] = hfa['hfa_base'].fillna(self.level)
+        ## round hfa to prevent large difs between each run
+        hfa['hfa_base'] = hfa['hfa_base'].round(3)
         ## return ##
         return hfa
 

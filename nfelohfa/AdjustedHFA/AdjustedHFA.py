@@ -60,6 +60,8 @@ class AdjustedHFA:
             0,
             df['hfa_base']
         )
+        ## round hfa_adj to 3 decimal places ##
+        df['hfa_adj'] = df['hfa_adj'].round(3)
         ## return ##
         return df
 

@@ -180,9 +180,13 @@ class DataLoader():
             self.db['srs_ratings']['qb_adjustment']
         )
         ## return ##
+        ## there is an upstream duplicate in the srs ratings, so we need to
+        ## group by season, week, and team and take the first
         return self.db['srs_ratings'][[
             'season', 'week', 'team', 'proj_rating'
-        ]]
+        ]].groupby(
+            ['season', 'week', 'team']
+        ).head(1).reset_index(drop=True)
 
     def add_surfaces(self):
         '''
