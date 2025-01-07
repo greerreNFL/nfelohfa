@@ -1579,7 +1579,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2004_21_NE_PHI,2004,21,PHI,NE,18:30,Alltel Stadium,Neutral,outdoors,grass,59.0,12.0,0,0,0.0,0,0,0.0,0.0,-0.0,0.0,0.0,-0.0,0.0
 2005_01_OAK_NE,2005,1,NE,OAK,09:00,Gillette Stadium,Home,outdoors,grass,74.0,0.0,0,0,3.0,0,0,2.5,0.0,-0.0,1.342,0.0,-0.0,3.842
 2005_01_HOU_BUF,2005,1,BUF,HOU,13:00,Ralph Wilson Stadium,Home,outdoors,astroplay,76.0,0.0,0,0,1.0,1,0,2.5,0.0,-0.0,0.448,0.872,-0.0,3.82
-2005_01_NO_CAR,2005,1,CAR,NO,13:00,Bank of America Stadium,Home,outdoors,grass,79.0,15.0,0,0,1.0,1,1,2.5,0.0,-0.0,0.448,0.872,-1.128,2.692
+2005_01_NO_CAR,2005,1,CAR,NO,13:00,Bank of America Stadium,Home,outdoors,grass,79.0,15.0,0,0,1.0,0,1,2.5,0.0,-0.0,0.448,0.0,-1.128,1.82
 2005_01_CIN_CLE,2005,1,CLE,CIN,13:00,Cleveland Browns Stadium,Home,outdoors,grass,74.0,5.0,0,0,0.0,1,1,2.5,0.0,-0.0,0.0,0.872,-1.128,2.244
 2005_01_SEA_JAX,2005,1,JAX,SEA,13:00,Alltel Stadium,Home,outdoors,grass,82.0,7.0,0,0,3.0,1,0,2.5,0.0,-0.0,1.342,0.872,-0.0,4.714
 2005_01_NYJ_KC,2005,1,KC,NYJ,13:00,Arrowhead Stadium,Home,outdoors,grass,81.0,12.0,0,0,-1.0,1,0,2.5,0.0,-0.0,-0.448,0.872,-0.0,2.924
@@ -1614,7 +1614,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_03_TB_GB,2005,3,GB,TB,13:00,Lambeau Field,Home,outdoors,grass,65.0,3.0,0,0,-1.0,0,0,2.5,0.0,-0.0,-0.448,0.0,-0.0,2.052
 2005_03_CLE_IND,2005,3,IND,CLE,13:00,RCA Dome,Home,dome,fieldturf,,,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_03_CAR_MIA,2005,3,MIA,CAR,13:00,Dolphin Stadium,Home,outdoors,grass,85.0,14.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
-2005_03_NO_MIN,2005,3,MIN,NO,13:00,Hubert H. Humphrey Metrodome,Home,dome,fieldturf,,,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
+2005_03_NO_MIN,2005,3,MIN,NO,13:00,Hubert H. Humphrey Metrodome,Home,dome,fieldturf,,,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_03_JAX_NYJ,2005,3,NYJ,JAX,13:00,Giants Stadium,Home,outdoors,fieldturf,69.0,10.0,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_03_OAK_PHI,2005,3,PHI,OAK,13:00,Lincoln Financial Field,Home,outdoors,grass,75.0,0.0,0,0,3.0,0,0,2.5,0.0,-0.0,1.342,0.0,-0.0,3.842
 2005_03_TEN_LAR,2005,3,LAR,TEN,13:00,Edward Jones Dome,Home,dome,fieldturf,,,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
@@ -1641,7 +1641,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_05_MIA_BUF,2005,5,BUF,MIA,13:00,Ralph Wilson Stadium,Home,outdoors,astroplay,50.0,8.0,0,1,0.0,1,1,2.5,0.0,-1.945,0.0,0.872,-1.128,0.299
 2005_05_CHI_CLE,2005,5,CLE,CHI,13:00,Cleveland Browns Stadium,Home,outdoors,grass,52.0,6.0,1,1,1.0,0,0,2.5,0.717,-1.945,0.448,0.0,-0.0,1.72
 2005_05_BAL_DET,2005,5,DET,BAL,13:00,Ford Field,Home,dome,fieldturf,,,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
-2005_05_NO_GB,2005,5,GB,NO,13:00,Lambeau Field,Home,outdoors,grass,52.0,10.0,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
+2005_05_NO_GB,2005,5,GB,NO,13:00,Lambeau Field,Home,outdoors,grass,52.0,10.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
 2005_05_TEN_HOU,2005,5,HOU,TEN,13:00,Reliant Stadium,Home,closed,grass,,,0,0,0.0,0,1,2.5,0.0,-0.0,0.0,0.0,-1.128,1.372
 2005_05_TB_NYJ,2005,5,NYJ,TB,13:00,Giants Stadium,Home,outdoors,fieldturf,57.0,7.0,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_05_SEA_LAR,2005,5,LAR,SEA,13:00,Edward Jones Dome,Home,dome,fieldturf,,,0,0,2.0,0,1,2.5,0.0,-0.0,0.895,0.0,-1.128,2.267
@@ -1671,7 +1671,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_07_IND_HOU,2005,7,HOU,IND,13:00,Reliant Stadium,Home,closed,grass,,,0,0,-1.0,1,1,2.5,0.0,-0.0,-0.448,0.872,-1.128,1.796
 2005_07_GB_MIN,2005,7,MIN,GB,13:00,Hubert H. Humphrey Metrodome,Home,dome,fieldturf,,,0,1,0.0,1,1,2.5,0.0,-1.945,0.0,0.872,-1.128,0.299
 2005_07_LAC_PHI,2005,7,PHI,LAC,13:00,Lincoln Financial Field,Home,outdoors,grass,53.0,17.0,1,0,3.0,0,0,2.5,0.717,-0.0,1.342,0.0,-0.0,4.559
-2005_07_NO_LAR,2005,7,LAR,NO,13:00,Edward Jones Dome,Home,dome,fieldturf,,,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
+2005_07_NO_LAR,2005,7,LAR,NO,13:00,Edward Jones Dome,Home,dome,fieldturf,,,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_07_SF_WAS,2005,7,WAS,SF,13:00,FedExField,Home,outdoors,grass,60.0,4.0,0,1,3.0,0,0,2.5,0.0,-1.945,1.342,0.0,-0.0,1.897
 2005_07_DAL_SEA,2005,7,SEA,DAL,16:05,Qwest Field,Home,outdoors,fieldturf,55.0,1.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
 2005_07_TEN_ARI,2005,7,ARI,TEN,16:15,Sun Devil Stadium,Home,outdoors,grass,83.0,5.0,1,0,1.0,0,0,2.5,0.717,-0.0,0.448,0.0,-0.0,3.665
@@ -1726,7 +1726,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_11_CAR_CHI,2005,11,CHI,CAR,13:00,Soldier Field,Home,outdoors,grass,45.0,7.0,0,0,-1.0,0,0,2.5,0.0,-0.0,-0.448,0.0,-0.0,2.052
 2005_11_MIA_CLE,2005,11,CLE,MIA,13:00,Cleveland Browns Stadium,Home,outdoors,grass,48.0,0.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
 2005_11_DET_DAL,2005,11,DAL,DET,13:00,Texas Stadium,Home,outdoors,fieldturf,57.0,0.0,0,0,-1.0,0,0,2.5,0.0,-0.0,-0.448,0.0,-0.0,2.052
-2005_11_NO_NE,2005,11,NE,NO,13:00,Gillette Stadium,Home,outdoors,grass,51.0,12.0,0,1,1.0,1,0,2.5,0.0,-1.945,0.448,0.872,-0.0,1.875
+2005_11_NO_NE,2005,11,NE,NO,13:00,Gillette Stadium,Home,outdoors,grass,51.0,12.0,0,1,1.0,0,0,2.5,0.0,-1.945,0.448,0.0,-0.0,1.003
 2005_11_PHI_NYG,2005,11,NYG,PHI,13:00,Giants Stadium,Home,outdoors,fieldturf,57.0,9.0,0,0,0.0,1,1,2.5,0.0,-0.0,0.0,0.872,-1.128,2.244
 2005_11_ARI_LAR,2005,11,LAR,ARI,13:00,Edward Jones Dome,Home,dome,fieldturf,,,0,0,1.0,1,1,2.5,0.0,-0.0,0.448,0.872,-1.128,2.692
 2005_11_JAX_TEN,2005,11,TEN,JAX,13:00,The Coliseum,Home,outdoors,grass,56.0,3.0,1,0,-1.0,0,1,2.5,0.717,-0.0,-0.448,0.0,-1.128,1.641
@@ -1751,7 +1751,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_12_MIA_OAK,2005,12,OAK,MIA,16:05,McAfee Coliseum,Home,outdoors,grass,52.0,0.0,0,0,1.0,0,0,2.5,0.0,-0.0,0.448,0.0,-0.0,2.948
 2005_12_GB_PHI,2005,12,PHI,GB,16:15,Lincoln Financial Field,Home,outdoors,grass,50.0,4.0,0,0,-1.0,0,0,2.5,0.0,-0.0,-0.448,0.0,-0.0,2.052
 2005_12_NYG_SEA,2005,12,SEA,NYG,16:15,Qwest Field,Home,outdoors,fieldturf,42.0,5.0,0,0,2.0,0,0,2.5,0.0,-0.0,0.895,0.0,-0.0,3.395
-2005_12_NO_NYJ,2005,12,NYJ,NO,20:30,Giants Stadium,Home,outdoors,fieldturf,49.0,7.0,0,0,-1.0,0,0,2.5,0.0,-0.0,-0.448,0.0,-0.0,2.052
+2005_12_NO_NYJ,2005,12,NYJ,NO,20:30,Giants Stadium,Home,outdoors,fieldturf,49.0,7.0,0,0,-1.0,1,0,2.5,0.0,-0.0,-0.448,0.872,-0.0,2.924
 2005_12_PIT_IND,2005,12,IND,PIT,09:00,RCA Dome,Home,dome,fieldturf,,,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
 2005_13_HOU_BAL,2005,13,BAL,HOU,13:00,M&T Bank Stadium,Home,outdoors,sportturf,47.0,10.0,0,0,1.0,1,0,2.5,0.0,-0.0,0.448,0.872,-0.0,3.82
 2005_13_ATL_CAR,2005,13,CAR,ATL,13:00,Bank of America Stadium,Home,outdoors,grass,60.0,12.0,0,0,0.0,1,1,2.5,0.0,-0.0,0.0,0.872,-1.128,2.244
@@ -1784,7 +1784,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_14_BAL_DEN,2005,14,DEN,BAL,16:15,Invesco Field at Mile High,Home,outdoors,grass,41.0,5.0,0,0,2.0,1,0,2.5,0.0,-0.0,0.895,0.872,-0.0,4.267
 2005_14_MIA_LAC,2005,14,LAC,MIA,16:15,Qualcomm Stadium,Home,outdoors,grass,69.0,8.0,0,0,2.0,0,0,2.5,0.0,-0.0,0.895,0.0,-0.0,3.395
 2005_14_DET_GB,2005,14,GB,DET,20:30,Lambeau Field,Home,outdoors,grass,14.0,8.0,0,0,1.0,1,1,2.5,0.0,-0.0,0.448,0.872,-1.128,2.692
-2005_14_NO_ATL,2005,14,ATL,NO,09:00,Georgia Dome,Home,dome,fieldturf,,,0,0,1.0,0,1,2.5,0.0,-0.0,0.448,0.0,-1.128,1.82
+2005_14_NO_ATL,2005,14,ATL,NO,09:00,Georgia Dome,Home,dome,fieldturf,,,0,0,1.0,1,1,2.5,0.0,-0.0,0.448,0.872,-1.128,2.692
 2005_15_TB_NE,2005,15,NE,TB,13:30,Gillette Stadium,Home,outdoors,grass,38.0,0.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
 2005_15_KC_NYG,2005,15,NYG,KC,17:00,Giants Stadium,Home,outdoors,fieldturf,39.0,8.0,0,0,-1.0,1,0,2.5,0.0,-0.0,-0.448,0.872,-0.0,2.924
 2005_15_DEN_BUF,2005,15,BUF,DEN,20:30,Ralph Wilson Stadium,Home,outdoors,astroplay,28.0,0.0,0,0,-2.0,1,0,2.5,0.0,-0.0,-0.895,0.872,-0.0,2.477
@@ -1827,7 +1827,7 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2005_17_MIA_NE,2005,17,NE,MIA,13:00,Gillette Stadium,Home,outdoors,grass,25.0,4.0,0,0,0.0,0,1,2.5,0.0,-0.0,0.0,0.0,-1.128,1.372
 2005_17_BUF_NYJ,2005,17,NYJ,BUF,13:00,Giants Stadium,Home,outdoors,fieldturf,35.0,0.0,0,0,0.0,0,1,2.5,0.0,-0.0,0.0,0.0,-1.128,1.372
 2005_17_DET_PIT,2005,17,PIT,DET,13:00,Heinz Field,Home,outdoors,dessograss,39.0,6.0,0,0,0.0,1,0,2.5,0.0,-0.0,0.0,0.872,-0.0,3.372
-2005_17_NO_TB,2005,17,TB,NO,13:00,Raymond James Stadium,Home,outdoors,grass,74.0,7.0,0,0,1.0,1,1,2.5,0.0,-0.0,0.448,0.872,-1.128,2.692
+2005_17_NO_TB,2005,17,TB,NO,13:00,Raymond James Stadium,Home,outdoors,grass,74.0,7.0,0,0,1.0,0,1,2.5,0.0,-0.0,0.448,0.0,-1.128,1.82
 2005_17_TEN_JAX,2005,17,JAX,TEN,16:05,Alltel Stadium,Home,outdoors,grass,69.0,7.0,0,0,-1.0,0,1,2.5,0.0,-0.0,-0.448,0.0,-1.128,0.924
 2005_17_HOU_SF,2005,17,SF,HOU,16:05,Monster Park,Home,outdoors,grass,56.0,28.0,0,0,0.0,0,0,2.5,0.0,-0.0,0.0,0.0,-0.0,2.5
 2005_17_CHI_MIN,2005,17,MIN,CHI,16:15,Hubert H. Humphrey Metrodome,Home,dome,fieldturf,,,0,0,0.0,1,1,2.5,0.0,-0.0,0.0,0.872,-1.128,2.244
