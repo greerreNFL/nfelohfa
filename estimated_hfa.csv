@@ -6987,5 +6987,6 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2024_20_WAS_DET,2024,20,DET,WAS,20:00,Ford Field,Home,dome,fieldturf,,,1,0,0.0,1,0,1.557,0.447,-0.0,0.0,0.543,-0.0,2.547
 2024_20_LAR_PHI,2024,20,PHI,LAR,15:00,Lincoln Financial Field,Home,outdoors,grass,34.0,8.0,0,0,1.0,1,0,1.557,0.0,-0.0,0.279,0.543,-0.0,2.379
 2024_20_BAL_BUF,2024,20,BUF,BAL,18:30,New Era Field,Home,outdoors,a_turf,19.0,4.0,0,0,0.0,1,0,1.557,0.0,-0.0,0.0,0.543,-0.0,2.1
-2024_21_WAS_PHI,2024,21,PHI,WAS,15:00,Lincoln Financial Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.557,0.0,-0.0,0.0,0.0,-0.702,0.855
-2024_21_BUF_KC,2024,21,KC,BUF,18:30,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,1.0,1,0,1.557,0.0,-0.0,0.279,0.543,-0.0,2.379
+2024_21_WAS_PHI,2024,21,PHI,WAS,15:00,Lincoln Financial Field,Home,outdoors,grass,40.0,11.0,0,0,0.0,0,1,1.557,0.0,-0.0,0.0,0.0,-0.702,0.855
+2024_21_BUF_KC,2024,21,KC,BUF,18:30,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,31.0,8.0,0,0,1.0,1,0,1.557,0.0,-0.0,0.279,0.543,-0.0,2.379
+2024_22_KC_PHI,2024,22,PHI,KC,18:30,Mercedes-Benz Superdome,Neutral,dome,sportturf,,,0,0,-1.0,0,0,0.0,0.0,-0.0,-0.279,0.0,-0.0,-0.279
