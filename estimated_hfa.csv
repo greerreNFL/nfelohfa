@@ -7245,20 +7245,26 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2025_17_NYG_OAK,2025,17,OAK,NYG,16:05,Allegiant Stadium,Home,dome,grass,,,0,0,1.0,1,0,1.78,0.0,-0.0,0.319,0.621,-0.0,2.72
 2025_17_PHI_BUF,2025,17,BUF,PHI,16:25,New Era Field,Home,outdoors,a_turf,38.0,6.0,0,0,0.0,1,0,1.78,0.0,-0.0,0.0,0.621,-0.0,2.401
 2025_17_CHI_SF,2025,17,SF,CHI,20:20,Levi's Stadium,Home,outdoors,grass,53.0,5.0,0,0,2.0,0,0,1.78,0.0,-0.0,0.637,0.0,-0.0,2.417
-2025_17_LAR_ATL,2025,17,ATL,LAR,20:15,Mercedes-Benz Stadium,Home,closed,,,,0,0,-3.0,0,0,1.78,0.0,-0.0,-0.956,0.0,-0.0,0.824
-2025_18_CAR_TB,2025,18,TB,CAR,16:30,Raymond James Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
-2025_18_SEA_SF,2025,18,SF,SEA,20:00,Levi's Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
+2025_17_LAR_ATL,2025,17,ATL,LAR,20:15,Mercedes-Benz Stadium,Home,closed,fieldturf,,,0,0,-3.0,0,0,1.78,0.0,-0.0,-0.956,0.0,-0.0,0.824
+2025_18_CAR_TB,2025,18,TB,CAR,16:30,Raymond James Stadium,Home,outdoors,grass,69.0,11.0,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_18_SEA_SF,2025,18,SF,SEA,20:00,Levi's Stadium,Home,outdoors,grass,57.0,8.0,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
 2025_18_NO_ATL,2025,18,ATL,NO,13:00,Mercedes-Benz Stadium,Home,closed,fieldturf,,,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
-2025_18_CLE_CIN,2025,18,CIN,CLE,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
+2025_18_CLE_CIN,2025,18,CIN,CLE,13:00,Paycor Stadium,Home,outdoors,fieldturf,37.0,0.0,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
 2025_18_IND_HOU,2025,18,HOU,IND,13:00,NRG Stadium,Home,closed,astroturf,,,0,0,-1.0,0,1,1.78,0.0,-0.0,-0.319,0.0,-0.803,0.658
-2025_18_TEN_JAX,2025,18,JAX,TEN,13:00,TIAA Bank Stadium,Home,outdoors,grass,,,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
+2025_18_TEN_JAX,2025,18,JAX,TEN,13:00,TIAA Bank Stadium,Home,outdoors,grass,55.0,8.0,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
 2025_18_GB_MIN,2025,18,MIN,GB,13:00,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
-2025_18_DAL_NYG,2025,18,NYG,DAL,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
-2025_18_NYJ_BUF,2025,18,BUF,NYJ,16:25,New Era Field,Home,outdoors,a_turf,,,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
-2025_18_DET_CHI,2025,18,CHI,DET,16:25,Soldier Field,Home,outdoors,grass,,,0,0,1.0,1,1,1.78,0.0,-0.0,0.319,0.621,-0.803,1.917
-2025_18_LAC_DEN,2025,18,DEN,LAC,16:25,Empower Field at Mile High,Home,outdoors,grass,,,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
+2025_18_DAL_NYG,2025,18,NYG,DAL,13:00,MetLife Stadium,Home,outdoors,fieldturf,33.0,7.0,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
+2025_18_NYJ_BUF,2025,18,BUF,NYJ,16:25,New Era Field,Home,outdoors,a_turf,27.0,13.0,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_18_DET_CHI,2025,18,CHI,DET,16:25,Soldier Field,Home,outdoors,grass,33.0,4.0,0,0,1.0,1,1,1.78,0.0,-0.0,0.319,0.621,-0.803,1.917
+2025_18_LAC_DEN,2025,18,DEN,LAC,16:25,Empower Field at Mile High,Home,outdoors,grass,66.0,8.0,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
 2025_18_ARI_LAR,2025,18,LAR,ARI,16:25,SoFi Stadium,Home,dome,matrixturf,,,0,0,-0.0,1,1,1.78,0.0,-0.0,-0.0,0.621,-0.803,1.598
 2025_18_KC_OAK,2025,18,OAK,KC,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,1.0,0,1,1.78,0.0,-0.0,0.319,0.0,-0.803,1.296
-2025_18_MIA_NE,2025,18,NE,MIA,16:25,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
-2025_18_WAS_PHI,2025,18,PHI,WAS,16:25,Lincoln Financial Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
-2025_18_BAL_PIT,2025,18,PIT,BAL,20:20,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_18_MIA_NE,2025,18,NE,MIA,16:25,Gillette Stadium,Home,outdoors,fieldturf,29.0,6.0,0,0,0.0,1,1,1.78,0.0,-0.0,0.0,0.621,-0.803,1.598
+2025_18_WAS_PHI,2025,18,PHI,WAS,16:25,Lincoln Financial Field,Home,outdoors,grass,35.0,9.0,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_18_BAL_PIT,2025,18,PIT,BAL,20:20,Acrisure Stadium,Home,outdoors,grass,25.0,3.0,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_19_LAR_CAR,2025,19,CAR,LAR,16:30,Bank of America Stadium,Home,outdoors,grass,,,0,0,-2.0,1,0,1.78,0.0,-0.0,-0.637,0.621,-0.0,1.764
+2025_19_GB_CHI,2025,19,CHI,GB,20:00,Soldier Field,Home,outdoors,,,,0,0,0.0,0,1,1.78,0.0,-0.0,0.0,0.0,-0.803,0.977
+2025_19_BUF_JAX,2025,19,JAX,BUF,13:00,TIAA Bank Stadium,Home,outdoors,,,,0,0,0.0,0,0,1.78,0.0,-0.0,0.0,0.0,-0.0,1.78
+2025_19_SF_PHI,2025,19,PHI,SF,16:30,Lincoln Financial Field,Home,outdoors,,,,0,0,-2.0,0,0,1.78,0.0,-0.0,-0.637,0.0,-0.0,1.143
+2025_19_LAC_NE,2025,19,NE,LAC,20:00,Gillette Stadium,Home,outdoors,,,,0,0,-3.0,0,0,1.78,0.0,-0.0,-0.956,0.0,-0.0,0.824
+2025_19_HOU_PIT,2025,19,PIT,HOU,20:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,-1.0,1,0,1.78,0.0,-0.0,-0.319,0.621,-0.0,2.082
