@@ -7267,8 +7267,10 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2025_19_BUF_JAX,2025,19,JAX,BUF,13:00,TIAA Bank Stadium,Home,outdoors,grass,62.0,6.0,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
 2025_19_SF_PHI,2025,19,PHI,SF,16:30,Lincoln Financial Field,Home,outdoors,grass,46.0,22.0,0,0,-2.0,0,0,1.777,0.0,-0.0,-0.636,0.0,-0.0,1.141
 2025_19_LAC_NE,2025,19,NE,LAC,20:00,Gillette Stadium,Home,outdoors,fieldturf,35.0,10.0,0,0,-3.0,0,0,1.777,0.0,-0.0,-0.954,0.0,-0.0,0.823
-2025_19_HOU_PIT,2025,19,PIT,HOU,20:00,Acrisure Stadium,Home,outdoors,,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
-2025_20_BUF_DEN,2025,20,DEN,BUF,16:30,Empower Field at Mile High,Home,outdoors,grass,,,1,0,2.0,1,0,1.777,0.51,-0.0,0.636,0.62,-0.0,3.543
-2025_20_SF_SEA,2025,20,SEA,SF,20:00,Lumen Field,Home,outdoors,fieldturf,,,1,0,0.0,1,1,1.777,0.51,-0.0,0.0,0.62,-0.801,2.106
-2025_20_HOU_NE,2025,20,NE,HOU,15:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
-2025_20_LAR_CHI,2025,20,CHI,LAR,18:30,Soldier Field,Home,outdoors,grass,,,0,0,-2.0,1,0,1.777,0.0,-0.0,-0.636,0.62,-0.0,1.761
+2025_19_HOU_PIT,2025,19,PIT,HOU,20:00,Acrisure Stadium,Home,outdoors,grass,32.0,9.0,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2025_20_BUF_DEN,2025,20,DEN,BUF,16:30,Empower Field at Mile High,Home,outdoors,grass,36.0,5.0,1,0,2.0,1,0,1.777,0.51,-0.0,0.636,0.62,-0.0,3.543
+2025_20_SF_SEA,2025,20,SEA,SF,20:00,Lumen Field,Home,outdoors,fieldturf,46.0,5.0,1,0,0.0,1,1,1.777,0.51,-0.0,0.0,0.62,-0.801,2.106
+2025_20_HOU_NE,2025,20,NE,HOU,15:00,Gillette Stadium,Home,outdoors,fieldturf,35.0,2.0,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2025_20_LAR_CHI,2025,20,CHI,LAR,18:30,Soldier Field,Home,outdoors,grass,19.0,6.0,0,0,-2.0,1,0,1.777,0.0,-0.0,-0.636,0.62,-0.0,1.761
+2025_21_NE_DEN,2025,21,DEN,NE,15:00,Empower Field at Mile High,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2025_21_LAR_SEA,2025,21,SEA,LAR,18:30,Lumen Field,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
