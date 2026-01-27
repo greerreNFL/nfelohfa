@@ -7272,5 +7272,6 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2025_20_SF_SEA,2025,20,SEA,SF,20:00,Lumen Field,Home,outdoors,fieldturf,46.0,5.0,1,0,0.0,1,1,1.777,0.51,-0.0,0.0,0.62,-0.801,2.106
 2025_20_HOU_NE,2025,20,NE,HOU,15:00,Gillette Stadium,Home,outdoors,fieldturf,35.0,2.0,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
 2025_20_LAR_CHI,2025,20,CHI,LAR,18:30,Soldier Field,Home,outdoors,grass,19.0,6.0,0,0,-2.0,1,0,1.777,0.0,-0.0,-0.636,0.62,-0.0,1.761
-2025_21_NE_DEN,2025,21,DEN,NE,15:00,Empower Field at Mile High,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
-2025_21_LAR_SEA,2025,21,SEA,LAR,18:30,Lumen Field,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2025_21_NE_DEN,2025,21,DEN,NE,15:00,Empower Field at Mile High,Home,outdoors,grass,26.0,10.0,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2025_21_LAR_SEA,2025,21,SEA,LAR,18:30,Lumen Field,Home,outdoors,fieldturf,41.0,2.0,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2025_22_SEA_NE,2025,22,NE,SEA,18:30,Levi's Stadium,Neutral,outdoors,grass,,,0,0,-3.0,0,0,0.0,0.0,-0.0,-0.954,0.0,-0.0,-0.954
