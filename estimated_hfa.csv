@@ -7275,3 +7275,275 @@ game_id,season,week,home_team,away_team,gametime,stadium,location,roof,surface,t
 2025_21_NE_DEN,2025,21,DEN,NE,15:00,Empower Field at Mile High,Home,outdoors,grass,26.0,10.0,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
 2025_21_LAR_SEA,2025,21,SEA,LAR,18:30,Lumen Field,Home,outdoors,fieldturf,41.0,2.0,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
 2025_22_SEA_NE,2025,22,NE,SEA,18:30,Levi's Stadium,Neutral,outdoors,grass,67.0,7.0,0,0,-3.0,0,0,0.0,0.0,-0.0,-0.954,0.0,-0.0,-0.954
+2026_01_NE_SEA,2026,1,SEA,NE,20:20,Lumen Field,Home,outdoors,fieldturf,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_01_SF_LAR,2026,1,LAR,SF,20:35,Melbourne Cricket Ground,Neutral,dome,matrixturf,,,0,0,0.0,1,1,0.0,0.0,-0.0,0.0,0.62,-0.801,-0.181
+2026_01_CHI_CAR,2026,1,CAR,CHI,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_01_TB_CIN,2026,1,CIN,TB,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_01_NO_DET,2026,1,DET,NO,13:00,Ford Field,Home,dome,fieldturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_01_BUF_HOU,2026,1,HOU,BUF,13:00,Reliant Stadium,Home,,astroturf,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_01_BAL_IND,2026,1,IND,BAL,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_01_CLE_JAX,2026,1,JAX,CLE,13:00,EverBank Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_01_ATL_PIT,2026,1,PIT,ATL,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_01_NYJ_TEN,2026,1,TEN,NYJ,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_01_ARI_LAC,2026,1,LAC,ARI,16:25,SoFi Stadium,Home,dome,matrixturf,,,0,0,-0.0,1,0,1.777,0.0,-0.0,-0.0,0.62,-0.0,2.397
+2026_01_MIA_OAK,2026,1,OAK,MIA,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_01_GB_MIN,2026,1,MIN,GB,16:25,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_01_WAS_PHI,2026,1,PHI,WAS,16:25,Lincoln Financial Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_01_DAL_NYG,2026,1,NYG,DAL,20:20,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,-1.0,0,1,1.777,0.0,-0.0,-0.318,0.0,-0.801,0.658
+2026_01_DEN_KC,2026,1,KC,DEN,20:15,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,-1.0,0,1,1.777,0.0,-0.0,-0.318,0.0,-0.801,0.658
+2026_02_DET_BUF,2026,2,BUF,DET,20:15,Highmark Stadium,Home,outdoors,a_turf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_02_CAR_ATL,2026,2,ATL,CAR,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_02_NO_BAL,2026,2,BAL,NO,13:00,M&T Bank Stadium,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_02_MIN_CHI,2026,2,CHI,MIN,13:00,Soldier Field,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_02_CIN_HOU,2026,2,HOU,CIN,13:00,Reliant Stadium,Home,,astroturf,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_02_PIT_NE,2026,2,NE,PIT,13:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_02_GB_NYJ,2026,2,NYJ,GB,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_02_CLE_TB,2026,2,TB,CLE,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_02_PHI_TEN,2026,2,TEN,PHI,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_02_JAX_DEN,2026,2,DEN,JAX,16:05,Empower Field at Mile High,Home,outdoors,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_02_OAK_LAC,2026,2,LAC,OAK,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_02_SEA_ARI,2026,2,ARI,SEA,16:25,State Farm Stadium,Home,,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_02_WAS_DAL,2026,2,DAL,WAS,16:25,AT&T Stadium,Home,,matrixturf,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_02_MIA_SF,2026,2,SF,MIA,16:25,Levi's Stadium,Home,outdoors,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_02_IND_KC,2026,2,KC,IND,20:20,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_02_NYG_LAR,2026,2,LAR,NYG,20:15,SoFi Stadium,Home,dome,matrixturf,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_03_ATL_GB,2026,3,GB,ATL,20:15,Lambeau Field,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_03_LAC_BUF,2026,3,BUF,LAC,13:00,Highmark Stadium,Home,outdoors,a_turf,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_03_CAR_CLE,2026,3,CLE,CAR,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_03_NYJ_DET,2026,3,DET,NYJ,13:00,Ford Field,Home,dome,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_03_HOU_IND,2026,3,IND,HOU,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_03_NE_JAX,2026,3,JAX,NE,13:00,EverBank Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_03_KC_MIA,2026,3,MIA,KC,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_03_TEN_NYG,2026,3,NYG,TEN,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_03_CIN_PIT,2026,3,PIT,CIN,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_03_SEA_WAS,2026,3,WAS,SEA,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_03_ARI_SF,2026,3,SF,ARI,16:05,Levi's Stadium,Home,outdoors,grass,,,0,0,-1.0,0,1,1.777,0.0,-0.0,-0.318,0.0,-0.801,0.658
+2026_03_MIN_TB,2026,3,TB,MIN,16:05,Raymond James Stadium,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_03_BAL_DAL,2026,3,DAL,BAL,16:25,Maracana Stadium,Neutral,,matrixturf,,,0,0,1.0,1,0,0.0,0.0,-0.0,0.318,0.62,-0.0,0.938
+2026_03_OAK_NO,2026,3,NO,OAK,16:25,Caesars Superdome,Home,dome,sportturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_03_LAR_DEN,2026,3,DEN,LAR,20:20,Empower Field at Mile High,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_03_PHI_CHI,2026,3,CHI,PHI,20:15,Soldier Field,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_04_PIT_CLE,2026,4,CLE,PIT,20:15,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_04_IND_WAS,2026,4,WAS,IND,09:30,Tottenham Hotspur Stadium,Neutral,outdoors,grass,,,0,0,0.0,1,0,0.0,0.0,-0.0,0.0,0.62,-0.0,0.62
+2026_04_TEN_BAL,2026,4,BAL,TEN,13:00,M&T Bank Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_04_NE_BUF,2026,4,BUF,NE,13:00,Highmark Stadium,Home,outdoors,a_turf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_04_NYJ_CHI,2026,4,CHI,NYJ,13:00,Soldier Field,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_04_JAX_CIN,2026,4,CIN,JAX,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_04_DAL_HOU,2026,4,HOU,DAL,13:00,Reliant Stadium,Home,,astroturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_04_ARI_NYG,2026,4,NYG,ARI,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_04_LAR_PHI,2026,4,PHI,LAR,13:00,Lincoln Financial Field,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_04_GB_TB,2026,4,TB,GB,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_04_MIA_MIN,2026,4,MIN,MIA,16:05,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_04_KC_OAK,2026,4,OAK,KC,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_04_LAC_SEA,2026,4,SEA,LAC,16:25,Lumen Field,Home,outdoors,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_04_DEN_SF,2026,4,SF,DEN,16:25,Levi's Stadium,Home,outdoors,grass,,,0,0,-0.0,0,0,1.777,0.0,-0.0,-0.0,0.0,-0.0,1.777
+2026_04_DET_CAR,2026,4,CAR,DET,20:20,Bank of America Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_04_ATL_NO,2026,4,NO,ATL,20:15,Caesars Superdome,Home,dome,sportturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_05_TB_DAL,2026,5,DAL,TB,20:15,AT&T Stadium,Home,,matrixturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_05_PHI_JAX,2026,5,JAX,PHI,09:30,Tottenham Hotspur Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_05_CIN_MIA,2026,5,MIA,CIN,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_05_OAK_NE,2026,5,NE,OAK,13:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_05_MIN_NO,2026,5,NO,MIN,13:00,Caesars Superdome,Home,dome,sportturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_05_CLE_NYJ,2026,5,NYJ,CLE,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_05_IND_PIT,2026,5,PIT,IND,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_05_HOU_TEN,2026,5,TEN,HOU,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_05_NYG_WAS,2026,5,WAS,NYG,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_05_DEN_LAC,2026,5,LAC,DEN,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_05_DET_ARI,2026,5,ARI,DET,16:25,State Farm Stadium,Home,,grass,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_05_CHI_GB,2026,5,GB,CHI,16:25,Lambeau Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_05_SF_SEA,2026,5,SEA,SF,16:25,Lumen Field,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_05_BAL_ATL,2026,5,ATL,BAL,20:20,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_05_BUF_LAR,2026,5,LAR,BUF,20:15,SoFi Stadium,Home,dome,matrixturf,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_06_SEA_DEN,2026,6,DEN,SEA,20:15,Empower Field at Mile High,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_06_HOU_JAX,2026,6,JAX,HOU,09:30,Wembley Stadium,Neutral,outdoors,grass,,,0,0,1.0,1,1,0.0,0.0,-0.0,0.318,0.62,-0.801,0.137
+2026_06_CHI_ATL,2026,6,ATL,CHI,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_06_BAL_CLE,2026,6,CLE,BAL,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_06_TEN_IND,2026,6,IND,TEN,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_06_NYJ_NE,2026,6,NE,NYJ,13:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_06_NO_NYG,2026,6,NYG,NO,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_06_CAR_PHI,2026,6,PHI,CAR,13:00,Lincoln Financial Field,Home,outdoors,grass,,,0,1,0.0,0,0,1.777,0.0,-1.383,0.0,0.0,-0.0,0.394
+2026_06_PIT_TB,2026,6,TB,PIT,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_06_ARI_LAR,2026,6,LAR,ARI,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_06_LAC_KC,2026,6,KC,LAC,16:25,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,1,0,-1.0,1,1,1.777,0.51,-0.0,-0.318,0.62,-0.801,1.788
+2026_06_BUF_OAK,2026,6,OAK,BUF,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_06_DAL_GB,2026,6,GB,DAL,20:20,Lambeau Field,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_06_WAS_SF,2026,6,SF,WAS,20:15,Levi's Stadium,Home,outdoors,grass,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_07_NE_CHI,2026,7,CHI,NE,20:15,Soldier Field,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_07_PIT_NO,2026,7,NO,PIT,09:30,Stade de France,Neutral,dome,sportturf,,,0,0,-1.0,1,0,0.0,0.0,-0.0,-0.318,0.62,-0.0,0.302
+2026_07_SF_ATL,2026,7,ATL,SF,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_07_CIN_BAL,2026,7,BAL,CIN,13:00,M&T Bank Stadium,Home,outdoors,grass,,,0,1,0.0,1,1,1.777,0.0,-1.383,0.0,0.62,-0.801,0.213
+2026_07_TB_CAR,2026,7,CAR,TB,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_07_NYG_HOU,2026,7,HOU,NYG,13:00,Reliant Stadium,Home,,astroturf,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_07_IND_MIN,2026,7,MIN,IND,13:00,U.S. Bank Stadium,Home,dome,sportturf,,,1,0,-1.0,0,0,1.777,0.51,-0.0,-0.318,0.0,-0.0,1.969
+2026_07_MIA_NYJ,2026,7,NYJ,MIA,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,1,0.0,1,1,1.777,0.0,-1.383,0.0,0.62,-0.801,0.213
+2026_07_CLE_TEN,2026,7,TEN,CLE,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_07_DEN_ARI,2026,7,ARI,DEN,16:05,State Farm Stadium,Home,,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_07_GB_DET,2026,7,DET,GB,16:25,Ford Field,Home,dome,fieldturf,,,1,0,-1.0,1,1,1.777,0.51,-0.0,-0.318,0.62,-0.801,1.788
+2026_07_LAR_OAK,2026,7,OAK,LAR,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_07_KC_SEA,2026,7,SEA,KC,20:20,Lumen Field,Home,outdoors,fieldturf,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_07_DAL_PHI,2026,7,PHI,DAL,20:15,Lincoln Financial Field,Home,outdoors,grass,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_08_CAR_GB,2026,8,GB,CAR,20:15,Lambeau Field,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_08_BAL_BUF,2026,8,BUF,BAL,13:00,Highmark Stadium,Home,outdoors,a_turf,,,1,0,0.0,1,0,1.777,0.51,-0.0,0.0,0.62,-0.0,2.907
+2026_08_TEN_CIN,2026,8,CIN,TEN,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_08_ARI_DAL,2026,8,DAL,ARI,13:00,AT&T Stadium,Home,,matrixturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_08_MIN_DET,2026,8,DET,MIN,13:00,Ford Field,Home,dome,fieldturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_08_IND_JAX,2026,8,JAX,IND,13:00,EverBank Stadium,Home,outdoors,grass,,,1,0,0.0,1,1,1.777,0.51,-0.0,0.0,0.62,-0.801,2.106
+2026_08_OAK_NYJ,2026,8,NYJ,OAK,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_08_CLE_PIT,2026,8,PIT,CLE,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_08_ATL_TB,2026,8,TB,ATL,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_08_LAC_LAR,2026,8,LAR,LAC,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,1,0.0,0,0,1.777,0.0,-1.383,0.0,0.0,-0.0,0.394
+2026_08_KC_DEN,2026,8,DEN,KC,16:25,Empower Field at Mile High,Home,outdoors,grass,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_08_NE_MIA,2026,8,MIA,NE,16:25,Hard Rock Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_08_PHI_WAS,2026,8,WAS,PHI,20:20,Northwest Stadium,Home,outdoors,grass,,,1,0,0.0,0,1,1.777,0.51,-0.0,0.0,0.0,-0.801,1.486
+2026_08_CHI_SEA,2026,8,SEA,CHI,20:15,Lumen Field,Home,outdoors,fieldturf,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_09_JAX_BAL,2026,9,BAL,JAX,20:15,M&T Bank Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_09_CIN_ATL,2026,9,ATL,CIN,09:30,Bernabeu,Neutral,,fieldturf,,,0,0,0.0,0,0,0.0,0.0,-0.0,0.0,0.0,-0.0,0.0
+2026_09_DEN_CAR,2026,9,CAR,DEN,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_09_DAL_IND,2026,9,IND,DAL,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_09_NYJ_KC,2026,9,KC,NYJ,13:00,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_09_DET_MIA,2026,9,MIA,DET,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_09_CLE_NO,2026,9,NO,CLE,13:00,Caesars Superdome,Home,dome,sportturf,,,1,0,-1.0,1,0,1.777,0.51,-0.0,-0.318,0.62,-0.0,2.589
+2026_09_NYG_PHI,2026,9,PHI,NYG,13:00,Lincoln Financial Field,Home,outdoors,grass,,,0,1,0.0,1,1,1.777,0.0,-1.383,0.0,0.62,-0.801,0.213
+2026_09_LAR_WAS,2026,9,WAS,LAR,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_09_HOU_LAC,2026,9,LAC,HOU,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,1,0.0,0,0,1.777,0.0,-1.383,0.0,0.0,-0.0,0.394
+2026_09_OAK_SF,2026,9,SF,OAK,16:05,Levi's Stadium,Home,outdoors,grass,,,1,0,0.0,0,0,1.777,0.51,-0.0,0.0,0.0,-0.0,2.287
+2026_09_GB_NE,2026,9,NE,GB,16:25,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_09_ARI_SEA,2026,9,SEA,ARI,16:25,Lumen Field,Home,outdoors,fieldturf,,,0,0,-0.0,1,1,1.777,0.0,-0.0,-0.0,0.62,-0.801,1.596
+2026_09_TB_CHI,2026,9,CHI,TB,20:20,Soldier Field,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_09_BUF_MIN,2026,9,MIN,BUF,20:15,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_10_WAS_NYG,2026,10,NYG,WAS,20:15,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_10_NE_DET,2026,10,DET,NE,09:30,FC Bayern Munich Stadium,Neutral,dome,fieldturf,,,0,0,0.0,0,0,0.0,0.0,-0.0,0.0,0.0,-0.0,0.0
+2026_10_KC_ATL,2026,10,ATL,KC,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_10_HOU_CLE,2026,10,CLE,HOU,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_10_MIN_GB,2026,10,GB,MIN,13:00,Lambeau Field,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_10_MIA_IND,2026,10,IND,MIA,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_10_CAR_NO,2026,10,NO,CAR,13:00,Caesars Superdome,Home,dome,sportturf,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_10_BUF_NYJ,2026,10,NYJ,BUF,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_10_JAX_TEN,2026,10,TEN,JAX,13:00,Nissan Stadium,Home,outdoors,grass,,,1,0,-1.0,0,1,1.777,0.51,-0.0,-0.318,0.0,-0.801,1.168
+2026_10_LAR_ARI,2026,10,ARI,LAR,16:05,State Farm Stadium,Home,,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_10_SEA_OAK,2026,10,OAK,SEA,16:05,Allegiant Stadium,Home,dome,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_10_SF_DAL,2026,10,DAL,SF,16:25,AT&T Stadium,Home,,matrixturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_10_PIT_CIN,2026,10,CIN,PIT,20:20,Paycor Stadium,Home,outdoors,fieldturf,,,0,1,0.0,1,1,1.777,0.0,-1.383,0.0,0.62,-0.801,0.213
+2026_10_LAC_BAL,2026,10,BAL,LAC,20:15,M&T Bank Stadium,Home,outdoors,grass,,,0,0,-3.0,1,0,1.777,0.0,-0.0,-0.954,0.62,-0.0,1.443
+2026_11_IND_HOU,2026,11,HOU,IND,20:15,Reliant Stadium,Home,,astroturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_11_MIA_BUF,2026,11,BUF,MIA,13:00,Highmark Stadium,Home,outdoors,a_turf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_11_BAL_CAR,2026,11,CAR,BAL,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_11_NO_CHI,2026,11,CHI,NO,13:00,Soldier Field,Home,outdoors,grass,,,1,0,0.0,1,0,1.777,0.51,-0.0,0.0,0.62,-0.0,2.907
+2026_11_TEN_DAL,2026,11,DAL,TEN,13:00,AT&T Stadium,Home,,matrixturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_11_TB_DET,2026,11,DET,TB,13:00,Ford Field,Home,dome,fieldturf,,,0,1,0.0,1,0,1.777,0.0,-1.383,0.0,0.62,-0.0,1.014
+2026_11_ARI_KC,2026,11,KC,ARI,13:00,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_11_JAX_NYG,2026,11,NYG,JAX,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_11_NYJ_LAC,2026,11,LAC,NYJ,16:05,SoFi Stadium,Home,dome,matrixturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_11_OAK_DEN,2026,11,DEN,OAK,16:25,Empower Field at Mile High,Home,outdoors,grass,,,1,0,0.0,0,1,1.777,0.51,-0.0,0.0,0.0,-0.801,1.486
+2026_11_PIT_PHI,2026,11,PHI,PIT,16:25,Lincoln Financial Field,Home,outdoors,grass,,,1,0,0.0,0,0,1.777,0.51,-0.0,0.0,0.0,-0.0,2.287
+2026_11_MIN_SF,2026,11,SF,MIN,20:20,Estadio Banorte,Neutral,outdoors,grass,,,0,0,2.0,1,0,0.0,0.0,-0.0,0.636,0.62,-0.0,1.256
+2026_11_CIN_WAS,2026,11,WAS,CIN,20:15,Northwest Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_12_GB_LAR,2026,12,LAR,GB,20:00,SoFi Stadium,Home,dome,matrixturf,,,1,1,2.0,1,0,1.777,0.51,-1.383,0.636,0.62,-0.0,2.16
+2026_12_CHI_DET,2026,12,DET,CHI,13:00,Ford Field,Home,dome,fieldturf,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_12_PHI_DAL,2026,12,DAL,PHI,16:30,AT&T Stadium,Home,,matrixturf,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_12_KC_BUF,2026,12,BUF,KC,20:20,Highmark Stadium,Home,outdoors,a_turf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_12_DEN_PIT,2026,12,PIT,DEN,15:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_12_NO_CIN,2026,12,CIN,NO,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_12_OAK_CLE,2026,12,CLE,OAK,13:00,Huntington Bank Field,Home,outdoors,grass,,,1,0,3.0,0,0,1.777,0.51,-0.0,0.954,0.0,-0.0,3.241
+2026_12_BAL_HOU,2026,12,HOU,BAL,13:00,Reliant Stadium,Home,,astroturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_12_NYG_IND,2026,12,IND,NYG,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_12_NYJ_MIA,2026,12,MIA,NYJ,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_12_ATL_MIN,2026,12,MIN,ATL,13:00,U.S. Bank Stadium,Home,dome,sportturf,,,0,1,-1.0,0,0,1.777,0.0,-1.383,-0.318,0.0,-0.0,0.076
+2026_12_TEN_JAX,2026,12,JAX,TEN,16:05,EverBank Stadium,Home,outdoors,grass,,,0,0,-1.0,0,1,1.777,0.0,-0.0,-0.318,0.0,-0.801,0.658
+2026_12_WAS_ARI,2026,12,ARI,WAS,16:25,State Farm Stadium,Home,,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_12_SEA_SF,2026,12,SF,SEA,16:25,Levi's Stadium,Home,outdoors,grass,,,0,1,0.0,1,1,1.777,0.0,-1.383,0.0,0.62,-0.801,0.213
+2026_12_NE_LAC,2026,12,LAC,NE,20:20,SoFi Stadium,Home,dome,matrixturf,,,0,1,3.0,0,0,1.777,0.0,-1.383,0.954,0.0,-0.0,1.348
+2026_12_CAR_TB,2026,12,TB,CAR,20:15,Raymond James Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_13_KC_LAR,2026,13,LAR,KC,20:15,SoFi Stadium,Home,dome,matrixturf,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_13_DET_ATL,2026,13,ATL,DET,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_13_JAX_CHI,2026,13,CHI,JAX,13:00,Soldier Field,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_13_CIN_CLE,2026,13,CLE,CIN,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_13_GB_NO,2026,13,NO,GB,13:00,Caesars Superdome,Home,dome,sportturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_13_SF_NYG,2026,13,NYG,SF,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_13_LAC_TB,2026,13,TB,LAC,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_13_WAS_TEN,2026,13,TEN,WAS,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_13_PHI_ARI,2026,13,ARI,PHI,16:05,State Farm Stadium,Home,,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_13_MIA_DEN,2026,13,DEN,MIA,16:05,Empower Field at Mile High,Home,outdoors,grass,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_13_CAR_MIN,2026,13,MIN,CAR,16:25,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_13_BUF_NE,2026,13,NE,BUF,16:25,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_13_HOU_PIT,2026,13,PIT,HOU,20:20,Acrisure Stadium,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_13_DAL_SEA,2026,13,SEA,DAL,20:15,Lumen Field,Home,outdoors,fieldturf,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_14_MIN_NE,2026,14,NE,MIN,20:15,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_14_TB_BAL,2026,14,BAL,TB,13:00,M&T Bank Stadium,Home,outdoors,grass,,,1,0,0.0,0,0,1.777,0.51,-0.0,0.0,0.0,-0.0,2.287
+2026_14_NO_CAR,2026,14,CAR,NO,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_14_ATL_CLE,2026,14,CLE,ATL,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_14_TEN_DET,2026,14,DET,TEN,13:00,Ford Field,Home,dome,fieldturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_14_CHI_MIA,2026,14,MIA,CHI,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_14_DEN_NYJ,2026,14,NYJ,DEN,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,1,0,2.0,1,0,1.777,0.51,-0.0,0.636,0.62,-0.0,3.543
+2026_14_IND_PHI,2026,14,PHI,IND,13:00,Lincoln Financial Field,Home,outdoors,grass,,,0,1,0.0,1,0,1.777,0.0,-1.383,0.0,0.62,-0.0,1.014
+2026_14_HOU_WAS,2026,14,WAS,HOU,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_14_LAC_OAK,2026,14,OAK,LAC,16:05,Allegiant Stadium,Home,dome,grass,,,1,0,0.0,1,1,1.777,0.51,-0.0,0.0,0.62,-0.801,2.106
+2026_14_KC_CIN,2026,14,CIN,KC,16:25,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_14_NYG_SEA,2026,14,SEA,NYG,16:25,Lumen Field,Home,outdoors,fieldturf,,,0,0,2.0,0,0,1.777,0.0,-0.0,0.636,0.0,-0.0,2.413
+2026_14_LAR_SF,2026,14,SF,LAR,16:25,Levi's Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_14_BUF_GB,2026,14,GB,BUF,20:20,Lambeau Field,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_14_PIT_JAX,2026,14,JAX,PIT,20:15,EverBank Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_15_SF_LAC,2026,15,LAC,SF,20:15,SoFi Stadium,Home,dome,matrixturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_15_SEA_PHI,2026,15,PHI,SEA,17:00,Lincoln Financial Field,Home,outdoors,grass,,,0,0,-3.0,1,0,1.777,0.0,-0.0,-0.954,0.62,-0.0,1.443
+2026_15_CHI_BUF,2026,15,BUF,CHI,20:20,Highmark Stadium,Home,outdoors,a_turf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_15_CIN_CAR,2026,15,CAR,CIN,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_15_MIA_GB,2026,15,GB,MIA,13:00,Lambeau Field,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_15_JAX_HOU,2026,15,HOU,JAX,13:00,Reliant Stadium,Home,,astroturf,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_15_CLE_NYG,2026,15,NYG,CLE,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_15_BAL_PIT,2026,15,PIT,BAL,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_15_NO_TB,2026,15,TB,NO,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_15_IND_TEN,2026,15,TEN,IND,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_15_ATL_WAS,2026,15,WAS,ATL,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_15_NYJ_ARI,2026,15,ARI,NYJ,16:05,State Farm Stadium,Home,,grass,,,1,0,2.0,1,0,1.777,0.51,-0.0,0.636,0.62,-0.0,3.543
+2026_15_DAL_LAR,2026,15,LAR,DAL,16:25,SoFi Stadium,Home,dome,matrixturf,,,0,1,1.0,0,0,1.777,0.0,-1.383,0.318,0.0,-0.0,0.712
+2026_15_DEN_OAK,2026,15,OAK,DEN,16:25,Allegiant Stadium,Home,dome,grass,,,0,0,-0.0,0,1,1.777,0.0,-0.0,-0.0,0.0,-0.801,0.976
+2026_15_DET_MIN,2026,15,MIN,DET,20:20,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_15_NE_KC,2026,15,KC,NE,20:15,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_16_HOU_PHI,2026,16,PHI,HOU,20:15,Lincoln Financial Field,Home,outdoors,grass,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_16_GB_CHI,2026,16,CHI,GB,13:00,Soldier Field,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_16_BUF_DEN,2026,16,DEN,BUF,16:30,Empower Field at Mile High,Home,outdoors,grass,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_16_LAR_SEA,2026,16,SEA,LAR,20:15,Lumen Field,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_16_TB_ATL,2026,16,ATL,TB,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_16_CLE_BAL,2026,16,BAL,CLE,13:00,M&T Bank Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_16_CIN_IND,2026,16,IND,CIN,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_16_LAC_MIA,2026,16,MIA,LAC,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_16_WAS_MIN,2026,16,MIN,WAS,13:00,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,-1.0,1,0,1.777,0.0,-0.0,-0.318,0.62,-0.0,2.079
+2026_16_ARI_NO,2026,16,NO,ARI,13:00,Caesars Superdome,Home,dome,sportturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_16_NE_NYJ,2026,16,NYJ,NE,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_16_CAR_PIT,2026,16,PIT,CAR,13:00,Acrisure Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_16_TEN_OAK,2026,16,OAK,TEN,16:05,Allegiant Stadium,Home,dome,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_16_SF_KC,2026,16,KC,SF,16:25,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_16_JAX_DAL,2026,16,DAL,JAX,20:20,AT&T Stadium,Home,,matrixturf,,,0,0,1.0,1,0,1.777,0.0,-0.0,0.318,0.62,-0.0,2.715
+2026_16_NYG_DET,2026,16,DET,NYG,20:15,Ford Field,Home,dome,fieldturf,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_17_BAL_CIN,2026,17,CIN,BAL,20:15,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_17_NO_ATL,2026,17,ATL,NO,13:00,Mercedes-Benz Stadium,Home,,fieldturf,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_17_SEA_CAR,2026,17,CAR,SEA,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_17_IND_CLE,2026,17,CLE,IND,13:00,Huntington Bank Field,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_17_NYG_DAL,2026,17,DAL,NYG,13:00,AT&T Stadium,Home,,matrixturf,,,0,0,-1.0,0,1,1.777,0.0,-0.0,-0.318,0.0,-0.801,0.658
+2026_17_WAS_JAX,2026,17,JAX,WAS,13:00,EverBank Stadium,Home,outdoors,grass,,,0,0,0.0,0,0,1.777,0.0,-0.0,0.0,0.0,-0.0,1.777
+2026_17_KC_LAC,2026,17,LAC,KC,13:00,SoFi Stadium,Home,dome,matrixturf,,,0,0,-2.0,1,1,1.777,0.0,-0.0,-0.636,0.62,-0.801,0.96
+2026_17_BUF_MIA,2026,17,MIA,BUF,13:00,Hard Rock Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_17_DEN_NE,2026,17,NE,DEN,13:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,2.0,1,0,1.777,0.0,-0.0,0.636,0.62,-0.0,3.033
+2026_17_MIN_NYJ,2026,17,NYJ,MIN,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_17_LAR_TB,2026,17,TB,LAR,13:00,Raymond James Stadium,Home,outdoors,grass,,,0,0,3.0,1,0,1.777,0.0,-0.0,0.954,0.62,-0.0,3.351
+2026_17_PIT_TEN,2026,17,TEN,PIT,13:00,Nissan Stadium,Home,outdoors,grass,,,0,0,-1.0,0,0,1.777,0.0,-0.0,-0.318,0.0,-0.0,1.459
+2026_17_OAK_ARI,2026,17,ARI,OAK,16:05,State Farm Stadium,Home,,grass,,,0,0,1.0,0,0,1.777,0.0,-0.0,0.318,0.0,-0.0,2.095
+2026_17_DET_CHI,2026,17,CHI,DET,16:25,Soldier Field,Home,outdoors,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_17_PHI_SF,2026,17,SF,PHI,20:20,Levi's Stadium,Home,outdoors,grass,,,0,0,3.0,0,0,1.777,0.0,-0.0,0.954,0.0,-0.0,2.731
+2026_17_HOU_GB,2026,17,GB,HOU,20:15,Lambeau Field,Home,outdoors,grass,,,0,0,0.0,1,0,1.777,0.0,-0.0,0.0,0.62,-0.0,2.397
+2026_18_SF_ARI,2026,18,ARI,SF,13:00,State Farm Stadium,Home,,grass,,,0,0,1.0,0,1,1.777,0.0,-0.0,0.318,0.0,-0.801,1.294
+2026_18_PIT_BAL,2026,18,BAL,PIT,13:00,M&T Bank Stadium,Home,outdoors,grass,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_18_NYJ_BUF,2026,18,BUF,NYJ,13:00,Highmark Stadium,Home,outdoors,a_turf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_18_ATL_CAR,2026,18,CAR,ATL,13:00,Bank of America Stadium,Home,outdoors,grass,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_CLE_CIN,2026,18,CIN,CLE,13:00,Paycor Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_LAC_DEN,2026,18,DEN,LAC,13:00,Empower Field at Mile High,Home,outdoors,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
+2026_18_DET_GB,2026,18,GB,DET,13:00,Lambeau Field,Home,outdoors,grass,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_18_TEN_HOU,2026,18,HOU,TEN,13:00,Reliant Stadium,Home,,astroturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_JAX_IND,2026,18,IND,JAX,13:00,Lucas Oil Stadium,Home,,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_OAK_KC,2026,18,KC,OAK,13:00,GEHA Field at Arrowhead Stadium,Home,outdoors,grass,,,0,0,2.0,0,1,1.777,0.0,-0.0,0.636,0.0,-0.801,1.612
+2026_18_SEA_LAR,2026,18,LAR,SEA,13:00,SoFi Stadium,Home,dome,matrixturf,,,0,0,0.0,0,1,1.777,0.0,-0.0,0.0,0.0,-0.801,0.976
+2026_18_CHI_MIN,2026,18,MIN,CHI,13:00,U.S. Bank Stadium,Home,dome,sportturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_MIA_NE,2026,18,NE,MIA,13:00,Gillette Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_TB_NO,2026,18,NO,TB,13:00,Caesars Superdome,Home,dome,sportturf,,,0,0,-1.0,1,1,1.777,0.0,-0.0,-0.318,0.62,-0.801,1.278
+2026_18_PHI_NYG,2026,18,NYG,PHI,13:00,MetLife Stadium,Home,outdoors,fieldturf,,,0,0,0.0,1,1,1.777,0.0,-0.0,0.0,0.62,-0.801,1.596
+2026_18_DAL_WAS,2026,18,WAS,DAL,13:00,Northwest Stadium,Home,outdoors,grass,,,0,0,1.0,1,1,1.777,0.0,-0.0,0.318,0.62,-0.801,1.914
