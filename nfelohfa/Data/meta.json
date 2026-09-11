@@ -1,0 +1,80 @@
+{
+    "surface_repl" : {
+        "fieldturf": "artificial",
+        "fieldturf ": "artificial",
+        "matrixturf": "artificial",
+        "sportturf": "artificial",
+        "astroturf": "artificial",
+        "astroplay": "artificial",
+        "a_turf": "artificial",
+        "grass": "natural",
+        "dessograss": "natural"
+    },
+    "timezones": {
+        "ARI": "MT",
+        "ATL": "ET",
+        "BAL": "ET",
+        "BUF": "ET",
+        "CAR": "ET",
+        "CHI": "CT",
+        "CIN": "ET",
+        "CLE": "ET",
+        "DAL": "CT",
+        "DEN": "MT",
+        "DET": "ET",
+        "GB": "CT",
+        "HOU": "CT",
+        "IND": "ET",
+        "JAX": "ET",
+        "KC": "CT",
+        "LAR": "PT",
+        "LAC": "PT",
+        "MIA": "ET",
+        "MIN": "CT",
+        "NE": "ET",
+        "NO": "CT",
+        "NYG": "ET",
+        "NYJ": "ET",
+        "OAK": "PT",
+        "PHI": "ET",
+        "PIT": "ET",
+        "SEA": "PT",
+        "SF": "PT",
+        "TB": "ET",
+        "TEN": "CT",
+        "WAS": "ET"
+    },
+    "tz_deltas" : {
+        "ET" : 0,
+        "CT" : 1,
+        "MT" : 2,
+        "PT" : 3
+    },
+    "timezone_overrides": [
+        {
+            "team" : "LAR",
+            "season": 2015,
+            "local_tz": "CT"
+        }
+    ],
+    "weather_location_overrides": [
+        {
+            "team" : "OAK",
+            "season" : 2020,
+            "direction" : "gt",
+            "repl" : "LV"
+        },
+        {
+            "team" : "LAR",
+            "season" : 2018,
+            "direction" : "lt",
+            "repl" : "STL"
+        },
+        {
+            "team" : "LAC",
+            "season" : 2021,
+            "direction" : "lt",
+            "repl" : "SD"
+        }
+    ]
+}

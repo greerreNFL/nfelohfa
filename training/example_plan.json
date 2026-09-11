@@ -1,0 +1,19 @@
+{
+    "run_id": "adjs-example",
+    "stage": "adjs",
+    "features": [
+        "home_bye",
+        "away_bye",
+        "home_time_advantage",
+        "dif_surface",
+        "div_game"
+    ],
+    "runs": 40000,
+    "hold_out": true,
+    "base": {
+        "level": 2.5,
+        "level_weeks": 15,
+        "reg_weeks": 280,
+        "kick_in": 0.75
+    }
+}
