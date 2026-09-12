@@ -178,7 +178,8 @@ class Optimizer:
             level,
             kick_in
         )
-        games = build_all(base.games_w_hfa)
+        ## train on the BaseHFA.prep_games population ##
+        games = base.prep_games(build_all(base.games_w_hfa))
         ## struc to save results ##
         package_dir = pathlib.Path(__file__).parent.parent.parent.resolve()
         if output_dir is None:
