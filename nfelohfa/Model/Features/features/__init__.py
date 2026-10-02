@@ -3,3 +3,4 @@ from .away_bye import AwayBye
 from .home_time_advantage import HomeTimeAdvantage
 from .dif_surface import DifSurface
 from .div_game import DivGame
+from .week_1 import Week1

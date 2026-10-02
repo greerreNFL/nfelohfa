@@ -1,6 +1,3 @@
-import numpy
-
-
 class Feature:
     '''
     One HFA feature: build the column from games, apply a weight
@@ -27,13 +24,9 @@ class Feature:
         '''
         if self.apply_mode == 'multiply':
             ## if not active, values will be 0
-            return numpy.round((
-                hfa_base * (values * self.weight)
-            ), 3)
+            return hfa_base * (values * self.weight)
         if self.apply_mode == 'add':
-            return numpy.round((
-                values * self.weight
-            ), 3)
+            return values * self.weight
         raise ValueError(
             'Unknown apply_mode {0} for {1}'.format(
                 self.apply_mode, self.name

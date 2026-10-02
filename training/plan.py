@@ -7,7 +7,7 @@ RUNS_DIR = REPO_ROOT / 'training' / 'runs'
 
 DEFAULT_FEATURES = [
     'home_bye', 'away_bye', 'home_time_advantage',
-    'dif_surface', 'div_game'
+    'dif_surface', 'div_game', 'week_1'
 ]
 ## adj defaults; not loaded from parameters.json ##
 DEFAULT_ADJ_BASE = {

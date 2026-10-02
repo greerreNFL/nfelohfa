@@ -6,7 +6,8 @@
         "away_bye",
         "home_time_advantage",
         "dif_surface",
-        "div_game"
+        "div_game",
+        "week_1"
     ],
     "runs": 40000,
     "hold_out": true,

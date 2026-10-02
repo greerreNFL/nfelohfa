@@ -7,22 +7,26 @@ PACKAGE_DIR = pathlib.Path(__file__).parent.parent.resolve()
 class Config:
     '''
     Package config loaded from parameters.json.
+    team_strength: qbelo projection params
     base: rolling HFA params
     features: name -> weight
     '''
-    def __init__(self, base, features):
+    def __init__(self, team_strength, base, features):
+        self.team_strength = team_strength
         self.base = base
         self.features = features
 
     @classmethod
     def from_dict(cls, data):
         return cls(
+            team_strength=data['team_strength'],
             base=data['base'],
             features=data['features']
         )
 
     def to_dict(self):
         return {
+            'team_strength': self.team_strength,
             'base': self.base,
             'features': self.features
         }

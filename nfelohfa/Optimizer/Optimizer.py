@@ -149,7 +149,7 @@ class Optimizer:
     def optimize_adjs(
             features=[
                 'home_bye', 'away_bye', 'home_time_advantage',
-                'dif_surface', 'div_game'
+                'dif_surface', 'div_game', 'week_1'
             ],
             runs=40000,
             hold_out=True,

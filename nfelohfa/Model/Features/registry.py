@@ -3,6 +3,7 @@ from .features.away_bye import AwayBye
 from .features.home_time_advantage import HomeTimeAdvantage
 from .features.dif_surface import DifSurface
 from .features.div_game import DivGame
+from .features.week_1 import Week1
 
 FEATURES = {
     'home_bye' : HomeBye,
@@ -10,6 +11,7 @@ FEATURES = {
     'home_time_advantage' : HomeTimeAdvantage,
     'dif_surface' : DifSurface,
     'div_game' : DivGame,
+    'week_1' : Week1,
 }
 
 

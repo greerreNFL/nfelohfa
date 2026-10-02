@@ -29,7 +29,7 @@ def calc_hfa():
         features=config.features
     )
     ## run ##
-    hfa = adj.apply_features()
+    hfa = adj.apply_features(round_output=True)
     ## save the output ##
     ## form cols ##
     cols = [
@@ -64,7 +64,7 @@ def optimize_base():
 def optimize_adjs(
         features=[
             'home_bye', 'away_bye', 'home_time_advantage',
-            'dif_surface', 'div_game'
+            'dif_surface', 'div_game', 'week_1'
         ],
         runs=40000,
         hold_out=True

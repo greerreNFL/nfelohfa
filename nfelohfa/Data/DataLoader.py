@@ -4,6 +4,7 @@ import pathlib
 
 import nfelodcm as dcm
 
+from ..config import Config
 from .utilities import (
     load_meta, define_surfaces, add_surfaces,
     define_local_timezones, add_tzs,
@@ -20,7 +21,7 @@ class DataLoader():
     are built by Model.Features, not here.
     '''
     def __init__(self):
-        self.db = dcm.load(['games', 'srs_ratings']) ## will also want to load power ratings ##
+        self.db = dcm.load(['games', 'qbelo'])
         ## load local data ##
         self.package_loc = pathlib.Path(__file__).parent.parent.parent.resolve()
         self.data_dir = pathlib.Path(__file__).parent.resolve()
@@ -34,7 +35,10 @@ class DataLoader():
         self.tz = define_local_timezones(
             self.db['games'], self.team_season, self.hfa_meta
         )
-        self.team_ratings = define_weekly_ratings(self.db['srs_ratings'])
+        self.team_ratings = define_weekly_ratings(
+            self.db['qbelo'],
+            Config.load().team_strength
+        )
         self.previous_weeks = define_previous_weeks(self.db['games'])
         ## add data to games ##
         self.db['games'] = add_surfaces(self.db['games'], self.surfaces)
