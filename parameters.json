@@ -1,6 +1,5 @@
 {
     "team_strength" : {
-        "forward_window" : 15,
         "qbelo_base" : 1505,
         "elo_per_point" : 25
     },

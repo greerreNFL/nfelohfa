@@ -7,7 +7,7 @@ PACKAGE_DIR = pathlib.Path(__file__).parent.parent.resolve()
 class Config:
     '''
     Package config loaded from parameters.json.
-    team_strength: qbelo projection params
+    team_strength: qbelo_base and elo_per_point
     base: rolling HFA params
     features: name -> weight
     '''

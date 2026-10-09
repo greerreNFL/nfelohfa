@@ -246,7 +246,7 @@ class BaseHFA:
         '''
         recs = []
         for kick_in in [.5, .75, 1]:
-            for level in [2.0, 2.25, 2.5, 2.75]:
+            for level in [2.0, 2.125, 2.25, 2.375, 2.5]:
                 for level_week in range(1,41):
                     for reg_week in range(200,300):
                         recs.append({
