@@ -245,10 +245,13 @@ class BaseHFA:
         Brute force optimizer for level and reg_weeks
         '''
         recs = []
-        for kick_in in [.5, .75, 1]:
-            for level in [2.0, 2.125, 2.25, 2.375, 2.5]:
-                for level_week in range(1,41):
-                    for reg_week in range(200,300):
+        for kick_in in [.25, .5, .75, 1]:
+            for level in [
+                2.15, 2.2, 2.25, 2.3, 2.35,
+                2.4, 2.45, 2.5, 2.55, 2.6
+            ]:
+                for level_week in range(1, 21):
+                    for reg_week in range(225, 300):
                         recs.append({
                             'level' : level,
                             'level_weeks' : level_week,
