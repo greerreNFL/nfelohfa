@@ -12,7 +12,7 @@ Do not use p-values to close a question.
 ## Environment
 Feature exploration is...exploration. Not all feature explorations will be successful and therefore we do not want to opperate in the primary checkout until it is time to consolidate. The primary checkout is the repo the user has open for the package.
 
-Create one worktree for the feature exploration, outside the primary checkout. Git cannot place a worktree inside the primary checkout, including inside `.local/`. Do not edit the primary checkout during exploration. Do not check out `main` in the worktree. Do not commit.
+Create one worktree for the feature exploration, outside the primary checkout. Git cannot place a worktree inside the primary checkout, including inside `.local/`. Do not edit the primary checkout during exploration. Do not check out `main` in the worktree. Do not commit. Here, "one worktree for feature exploration" means a worktree for the session, even if multiple features are being explored. It does not mean one worktree per feature UNLESS multiple features are being explored in parallel. To avoid collisions in that case, multiple worktrees would be needed.
 
 The primary checkout is the installed package. `import nfelohfa` loads the primary checkout unless the command runs from the worktree with `PYTHONPATH` set to the worktree. Run every command from the worktree root.
 
@@ -50,6 +50,34 @@ Observed HFA in this package is `mean(result - (home_rating - away_rating))` on 
 
 ## 2. Implement
 
+### Conceptionalization
+
+Features should reflect the mechanics of the research and availability of the data. They are a model of the dynamic in code. 
+
+They may be simple or complex. They can utilize binary flags and gates, or be continuous. What is important is that they capture the ethos and mechanics represented by the research. If this feature is a net new discovery and has no public research available, it should match the hypothesis.
+
+For example,
+* It is documented that teams play better after a bye week. The feature is a simple yes/no flag for if the team is coming off a bye
+* Research shows circadian rhythms have a continuous effect on performance, with a peak occuring in the afternoon. The feature should be continuous and reflect team's net distance from their respective peak performance window
+
+To explore the possible space for the feature, you can take shortcuts / rough cuts by examining the margin residual when a feature is on vs off. Said another way, if there is a large difference in actual vs predict margin when the feautre is active vs inactive, that is a good signal that the feature is capturing an effect. To benchmark, here are on/off differences for some existing validated features:
+
+On is `== 1` and off is `== 0`. Home time advantage is continuous, so on is `> 0` (home closer to its peak than the away team) and off is `<= 0`. Each value is `mean(result - (home_rating - away_rating))` in points on `BaseHFA.prep_games` (regular season, non-neutral, has ratings, 2020 dropped; null results dropped from the mean), seasons 1999–2026. Difference is on minus off.
+
+| Feature | HFA on | HFA off | On/Off Difference |
+|---|---|---|---|
+| Home bye | 2.855 | 2.307 | +0.548 |
+| Away bye | 0.585 | 2.453 | -1.868 |
+| Home time advantage | 2.870 | 2.046 | +0.824 |
+| Different surface | 2.648 | 2.022 | +0.626 |
+| Division game | 1.911 | 2.614 | -0.703 |
+| Week 1 | 1.091 | 2.426 | -1.335 |
+
+
+Degrees of freedom should also be considered for feature viability. Simple features are more likely to represent repeatable signal vs heavily sliced and contorted ones. For instance, a simple feature might be just is_bye. A more complex one might be is_home_bye and is_away_bye. The added complexity IS supported by research, mechanics, and the observed data. However splitting it futher to features like is_home_bye_after_week_10 then enters the territory of tortured and overfit.
+
+### Structure
+
 Match existing features. `apply_mode` is `multiply` unless there is a hard reason not to. Weight is a fraction of `hfa_base`.
 
 ```
@@ -77,7 +105,10 @@ PYTHONPATH=. python training/train.py <plan.json>
 Plan lives in the exploration `plans/` folder. `run_id` writes `training/runs/<run_id>/` (gitignored).
 
 - Features list = existing five plus the new name.
-- Scout (~8k) to confirm weights move and the sign is not noise.
+- Scout (~8k) to confirm weights move and the sign is not noise (< 10% of runs crossing 0).
+-- If the scout does not pass (>10% of runs crossing 0), or passes weakly (>5% of runs crossing 0), iterate on the feature (conceptionalization step) and scout again.
+-- Continue this process until a viable, quality candidate is found OR until you've exhausted all reasonable routes to express the idea.
+-- If no reasonable candidate exists, skip the larger 40000 run
 - Then `runs: 40000`, `hold_out: true`, adj `base` as in `training/example_plan.json`.
 - Iterate the spec (definition of the column), not the optimizer.
 - Copy each finished run into `runs/` in the exploration folder.

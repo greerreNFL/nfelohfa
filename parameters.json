@@ -1,21 +1,20 @@
 {
     "team_strength" : {
-        "forward_window" : 15,
         "qbelo_base" : 1505,
         "elo_per_point" : 25
     },
     "base" : {
-        "level" : 2.25,
-        "level_weeks" : 1,
-        "reg_weeks" : 275,
+        "level" : 2.45,
+        "level_weeks" : 3,
+        "reg_weeks" : 276,
         "kick_in" : 1.0
     },
     "features" : {
-        "home_bye" : 0.413,
-        "away_bye" : -0.959,
-        "home_time_advantage" : 0.181,
-        "dif_surface" : 0.361,
-        "div_game" : -0.269,
-        "week_1" : -0.557
+        "home_bye" : 0.300,
+        "away_bye" : -1.000,
+        "home_time_advantage" : 0.172,
+        "dif_surface" : 0.329,
+        "div_game" : -0.307,
+        "week_1" : -0.490
     }
 }

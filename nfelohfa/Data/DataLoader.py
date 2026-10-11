@@ -8,7 +8,6 @@ from ..config import Config
 from .utilities import (
     load_meta, define_surfaces, add_surfaces,
     define_local_timezones, add_tzs,
-    define_weekly_ratings, add_weekly_ratings,
     define_previous_weeks, add_previous_weeks
 )
 
@@ -35,22 +34,54 @@ class DataLoader():
         self.tz = define_local_timezones(
             self.db['games'], self.team_season, self.hfa_meta
         )
-        self.team_ratings = define_weekly_ratings(
-            self.db['qbelo'],
-            Config.load().team_strength
-        )
         self.previous_weeks = define_previous_weeks(self.db['games'])
         ## add data to games ##
         self.db['games'] = add_surfaces(self.db['games'], self.surfaces)
         self.db['games'] = add_tzs(self.db['games'], self.tz)
-        self.db['games'] = add_weekly_ratings(
-            self.db['games'], self.team_ratings
-        )
+        self.add_ratings()
         self.add_local_temps()
         self.db['games'] = add_previous_weeks(
             self.db['games'], self.previous_weeks
         )
         self.add_div()
+
+    def add_ratings(self):
+        '''
+        Week-t skill in points: (qbelo_pre + qb_adj - 1505) / 25.
+        '''
+        cfg = Config.load().team_strength
+        qbelo = self.db['qbelo']
+        qbelo = qbelo[
+            qbelo['game_id'].notna() &
+            qbelo['qbelo1_pre'].notna() &
+            qbelo['qb1_adj'].notna()
+        ].copy()
+        qbelo = qbelo.sort_values(
+            by=['season', 'week', 'date']
+        )
+        qbelo = qbelo[~qbelo['game_id'].duplicated(keep='last')]
+        games = pd.merge(
+            self.db['games'],
+            qbelo[[
+                'game_id', 'qbelo1_pre', 'qbelo2_pre',
+                'qb1_adj', 'qb2_adj'
+            ]],
+            on='game_id',
+            how='left'
+        )
+        games['home_team_rating'] = (
+            games['qbelo1_pre'] +
+            games['qb1_adj'] -
+            cfg['qbelo_base']
+        ) / cfg['elo_per_point']
+        games['away_team_rating'] = (
+            games['qbelo2_pre'] +
+            games['qb2_adj'] -
+            cfg['qbelo_base']
+        ) / cfg['elo_per_point']
+        self.db['games'] = games.drop(columns=[
+            'qbelo1_pre', 'qbelo2_pre', 'qb1_adj', 'qb2_adj'
+        ])
 
     def load_temps(self):
         '''
